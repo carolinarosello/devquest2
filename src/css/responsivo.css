@@ -1,0 +1,18 @@
+@media screen and (max-width: 576px){
+    .principal {
+        min-width: 360px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .texto {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 340px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+
+    }
+}
+
